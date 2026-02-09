@@ -5,7 +5,9 @@ A simple desktop **Expense Tracker** built with Python and Tkinter, packaged as 
 No Python installation required to run the app.
 
 ---
-<img width="594" height="598" alt="image" src="https://github.com/user-attachments/assets/d593fe71-e9c2-43c4-ba00-57edc71b48ef" />
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/0d8f4ab0-d19f-4ca3-9f4d-f9b807f8ac47" alt="image" />
+</div>
 
 ## ✨ Features
 
