@@ -115,8 +115,3 @@ This is normal for apps created with PyInstaller.
 - JSON (data storage)
 - PyInstaller (to create executable)
 
----
-
-## 📜 License
-
-This project is open-source and free to use for learning purposes.
